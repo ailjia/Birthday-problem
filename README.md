@@ -15,4 +15,4 @@ The event of at least two of the n persons having the same birthday is complemen
 
 p(n) = 1 - p(n')
 
-The codes provided are to calculate the probability of the birthday problem, given the number of people in the room. 
+The codes provided are to calculate the probability of the birthday problem, given the number of people in the room. The easiest way is to solve the problem by recursion. 
